@@ -3,9 +3,7 @@
 ## 📌 Overview
 
 This project demonstrates the deployment of a static website on an Ubuntu-based Amazon EC2 instance using Nginx as the web server.
-
 The primary objective was to implement a version-controlled deployment workflow while understanding core AWS infrastructure components and Linux server management.
-
 This setup represents a foundational single-tier web architecture.
 
 ---
