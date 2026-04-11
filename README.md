@@ -67,11 +67,6 @@ These highlight trade-offs between speed, control, and maintainability compared 
 - Gained hands-on experience with Linux server management  
 - Understood differences between server-based and serverless hosting  
 
-## 📂 Repository Files
-- `index.html` – Static website file  
-- `README.md` – Project documentation  
-- `Snapshots.pdf` – Deployment snapshots  
-
 > **Disclaimer:** The repository was renamed; the clone URL may differ from earlier versions. Only `index.html` is used for deployment; unnecessary files were removed before configuring Nginx.
 
 ## 📸 Snapshots Include
