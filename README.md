@@ -67,9 +67,9 @@ These highlight trade-offs between speed, control, and maintainability compared 
 - Gained hands-on experience with Linux server management  
 - Understood differences between server-based and serverless hosting  
 
-> **Disclaimer:** The repository was renamed; the clone URL may differ from earlier versions. Only `index.html` is used for deployment; unnecessary files were removed before configuring Nginx.
-
 ## 📸 Snapshots Include
 - Deployed website output  
 - EC2 instance configuration  
 - Ubuntu terminal with command execution
+
+> **Disclaimer:** The repository was renamed; the clone URL may differ from earlier versions. Only `index.html` is used for deployment; unnecessary files were removed before configuring Nginx.
